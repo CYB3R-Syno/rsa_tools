@@ -1,10 +1,6 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
 
 # RSA Encipher
-# Zweisamkeit - zweisamkeit.fr
-# 07/05/17
-# GNU GPL v3
 
 import sys
 import argparse
