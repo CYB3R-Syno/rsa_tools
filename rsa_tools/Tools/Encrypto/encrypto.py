@@ -14,7 +14,7 @@ class Encipher(object):
     print ("\n")
     print ("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~")
     print ("\t\t      RSA Encipher       ")
-    print ("\t\t       Zweisamkeit       ")
+    print ("\t\t       CYB3R_Syno        ")
     print ("\t\t    GNU GPL v3 License   ")
     print ("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~")
     print ("\n")
