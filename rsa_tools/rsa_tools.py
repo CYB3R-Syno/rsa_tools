@@ -26,7 +26,7 @@ def accueil(arg):
 		print("\t\t#                  ==== Wiener ====                    #")
 		print("\t\t#                [1]: Wiener Attack                    #")
 		print("\t\t#                                                      #")
-		print("\t\t#                 ==== RSA Cipher ====                 #")
+		print("\t\t#                ==== RSA Cipher ====                  #")
 		print("\t\t#             [2]: RSA Ciphertext Decipher             #")
 		print("\t\t#             [3]: RSA Ciphertext Encipher             #")
 		print("\t\t#             [0]: Quit                                #")
