@@ -20,7 +20,7 @@ class Wiener(object):
       print ("\n")
       print ("\t~~~~~~~~~~~~~~~~~~~~~~~~~")
       print ("\t      Wiener Attack      ")
-      print ("\t       Zweisamkeit       ")
+      print ("\t        T3N4CI0US        ")
       print ("\t    GNU GPL v3 License   ")
       print ("\t~~~~~~~~~~~~~~~~~~~~~~~~~")
       print ("\n")
