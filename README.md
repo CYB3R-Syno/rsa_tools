@@ -27,7 +27,7 @@ $ pip3 install -r requirements.txt
 <hr/>
 
 # 4. Version
-  - Version 1.0 - 2021-09-06
+  - Version 1.0 - 2021-09-07
     - Make RSA_TOOLS.py
 
 <hr/>
