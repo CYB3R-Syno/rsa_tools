@@ -11,7 +11,7 @@
 
 # 2. Usage
 ```
-$ git clone https://github.com/CYB3R-Syno/rsa_tools.git
+$ git clone https://github.com/Sy2n0/rsa_tools.git
 $ cd rsa_tools
 $ ./rsa_tools.py
 ```
@@ -27,7 +27,7 @@ $ pip3 install -r requirements.txt
 <hr/>
 
 # 4. Version
-  - Version 1.0 - 2021-09-07
+  - Version 1.1 - 2021-09-07
     - Make RSA_TOOLS.py
 
 <hr/>
